@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
  ⚡ Fun fc5t: ...
-  06.14
-  
+  06.15
+
   
 <!---
 krutanol/krutanol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
